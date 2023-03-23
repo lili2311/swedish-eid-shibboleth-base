@@ -48,7 +48,7 @@
     <shibboleth.java-support.version>7.4.0</shibboleth.java-support.version>
     <shibboleth.spring-extensions.version>5.4.0</shibboleth.spring-extensions.version>
 
-    <spring.version>4.3.19.RELEASE</spring.version>
+    <spring.version>5.2.23.RELEASE</spring.version>
     
     <!-- https://snyk.io/vuln/SNYK-JAVA-ORGSPRINGFRAMEWORK-72470 -->
     <spring-web.version>4.3.20.RELEASE</spring-web.version>
