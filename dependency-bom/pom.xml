@@ -41,7 +41,7 @@
 
   <properties>
     <opensaml.version>3.4.0</opensaml.version>
-    <opensaml-ext.version>1.2.1</opensaml-ext.version>
+    <opensaml-ext.version>1.4.0</opensaml-ext.version>
     <opensaml.swedish-eid.version>1.2.1</opensaml.swedish-eid.version>
 
     <shibboleth.version>3.4.0</shibboleth.version>
