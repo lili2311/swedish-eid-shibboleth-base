@@ -48,12 +48,12 @@
     <shibboleth.java-support.version>7.4.0</shibboleth.java-support.version>
     <shibboleth.spring-extensions.version>5.4.0</shibboleth.spring-extensions.version>
 
-    <spring.version>4.3.19.RELEASE</spring.version>
+    <spring.version>6.1.14</spring.version>
     
     <!-- https://snyk.io/vuln/SNYK-JAVA-ORGSPRINGFRAMEWORK-72470 -->
-    <spring-web.version>4.3.20.RELEASE</spring-web.version>
+    <spring-web.version>6.1.14</spring-web.version>
     
-    <spring.webflow.version>2.4.8.RELEASE</spring.webflow.version>
+    <spring.webflow.version>3.0.1</spring.webflow.version>
     <spring.mobile.version>1.1.5.RELEASE</spring.mobile.version>
     
     <jackson.version>2.9.7</jackson.version>
