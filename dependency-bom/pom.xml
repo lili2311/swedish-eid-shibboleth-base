@@ -53,7 +53,7 @@
     <!-- https://snyk.io/vuln/SNYK-JAVA-ORGSPRINGFRAMEWORK-72470 -->
     <spring-web.version>4.3.20.RELEASE</spring-web.version>
     
-    <spring.webflow.version>2.4.8.RELEASE</spring.webflow.version>
+    <spring.webflow.version>3.0.0</spring.webflow.version>
     <spring.mobile.version>1.1.5.RELEASE</spring.mobile.version>
     
     <jackson.version>2.9.7</jackson.version>
